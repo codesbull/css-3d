@@ -15,6 +15,8 @@
 2.  音乐播放需要编译工具运行，双击触发不了
 （可以在audio标签加上controls属性，显示播放条）
 <audio loop src="img/qianyuqianxun.mp3" id="audio" controls autoplay preload="auto">
+3.  效果见a.jpg  b.jpg
+ 
 
 #### 作者
 
